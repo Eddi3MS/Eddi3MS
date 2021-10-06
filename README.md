@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning nextJS with [Maximilian Schwarzmüller](https://www.udemy.com/course/nextjs-react-the-complete-guide/).
 - 👯 I’m looking to collaborate on just anything i know of.. just ask.
-- 😆 If you need help with any **simple** web site, just ask. (free of charge).
+- 😆 If you need help with any **simple** web site, just ask. (free of charge)
 - 📫 You can reach me through my [website](https://eddi3-portfolio.herokuapp.com).
 
 
