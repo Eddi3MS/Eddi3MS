@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning nextJS with [Maximilian Schwarzmüller](https://www.udemy.com/course/nextjs-react-the-complete-guide/).
 - 👯 I’m looking to collaborate on just anything i know of.. just ask.
 - 😆 If you need help with any **simple** web site, just ask.
-- 📫 You can reach me through my [website](https://edsonwebdev.herokuapp.com).
+- 📫 You can reach me through my [website](https://edsonmarcelo.vercel.app/).
 
 
 
