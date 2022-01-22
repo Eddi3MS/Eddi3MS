@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning nextJS with [Maximilian Schwarzmüller](https://www.udemy.com/course/nextjs-react-the-complete-guide/).
-- 👯 I’m looking to collaborate on just anything i know of.. just ask.
+- 👯 I’m currently looking for a job position as a junior frontend developer.
 - 📫 You can reach me through my [website](https://edsonmarcelo.vercel.app/).
 
 
