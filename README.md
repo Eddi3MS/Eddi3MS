@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Edson, a junior web developer
+### Hi there 👋, my name is Edson, a web developer.
 
 
 - 🌱 I’m currently learning nextJS with [Maximilian Schwarzmüller](https://www.udemy.com/course/nextjs-react-the-complete-guide/).
