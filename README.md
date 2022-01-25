@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Edson, a web developer.
 
 
-- 🌱 I’m currently learning nextJS with [Maximilian Schwarzmüller](https://www.udemy.com/course/nextjs-react-the-complete-guide).
+- 🌱 I’m currently learning React-Native with [Maximilian Schwarzmüller](https://www.udemy.com/course/react-native-the-practical-guide).
 - 👯 I’m currently looking for a job position as a junior frontend developer.
 - 📫 You can reach me through my [website](https://edsonmarcelo.vercel.app/).
 
