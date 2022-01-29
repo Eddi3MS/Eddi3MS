@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Edson, a web developer.
+# Olá 👋, meu nome é Edson Marcelo, web developer junior.
 
 
-- 🌱 I’m currently learning React-Native with [Maximilian Schwarzmüller](https://www.udemy.com/course/react-native-the-practical-guide).
-- 👯 I’m currently looking for a job position as a junior frontend developer.
-- 📫 You can reach me through my [website](https://edsonmarcelo.vercel.app/).
+-  Atualmente estudando react.js, na udemy, com o Professor [Maximilian Schwarzmüller](https://www.udemy.com/course/react-native-the-practical-guide).
+-  Buscando minha primeira posição na área, como programador front-end júnior. 
+-  Você pode me contatar pelo meu [site](https://inazumait.netlify.app).
 
 
 
