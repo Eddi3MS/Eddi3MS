@@ -3,7 +3,7 @@
 
 -  Atualmente estudando react.js, na udemy, com o Professor [Maximilian Schwarzmüller](https://www.udemy.com/course/react-native-the-practical-guide).
 -  Buscando minha primeira posição na área, como programador front-end júnior. 
--  Você pode me contatar pelo meu [site](https://inazumait.netlify.app).
+-  Você pode me contatar pelo meu [site](https://inazumait.netlify.app) ou pelo [linkedin](https://www.linkedin.com/in/edson-marcelo-b0471b1bb).
 
 
 
