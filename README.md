@@ -1,8 +1,6 @@
 # Olá 👋!!
 ## Meu nome é Edson Marcelo.
 
-
-### Sobre mim:
 Sou desenvolvedor Front-end com react.js.
 
 Tenho uma boa noção de componentização, controle de estados, consumo de API’s e 
