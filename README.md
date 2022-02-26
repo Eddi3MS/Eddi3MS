@@ -1,11 +1,22 @@
-# Olá 👋, meu nome é Edson Marcelo, web developer junior.
+# Olá 👋!!
+## Meu nome é Edson Marcelo.
 
 
--  📚 Atualmente estudando react.js, na udemy, com o Professor [Maximilian Schwarzmüller](https://www.udemy.com/course/react-native-the-practical-guide).
+### Sobre mim:
+Sou desenvolvedor Front-end com react.js.
+
+Tenho uma boa noção de componentização, controle de estados, consumo de API’s e 
+React Hooks. Também um pouco de experiência com Next.Js.
+
+Sólidos conhecimentos em HTML5, CSS3 e Javascript. 
+
+Já utilizei MongoDB e Firebase na construção de diversos projetos práticos.
+
+E também Controle de versão, com GIT.
+
+
 -  :zap: Buscando minha primeira posição na área, como programador front-end júnior. 
 -  💻 Você pode me contatar pelo meu [site](https://inazumait.netlify.app) ou pelo [linkedin](https://www.linkedin.com/in/edson-marcelo-b0471b1bb).
-
-
 
  <div>
   <a href="https://github.com/Eddi3MS">
