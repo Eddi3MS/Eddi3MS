@@ -13,15 +13,35 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddi3MS&layout=compact&langs_count=7&theme=dracula"/>
  </div>
  
+<br>
+
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Eddi3MS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eddi3MS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eddi3MS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eddi3MS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eddi3MS-Next" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Eddi3MS-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Eddi3MS-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Eddi3MS-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Eddi3MS-Figma" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">
-</div>
+ :books: Skills:
+ 
+ <p align="left">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    
+ <img src="https://img.shields.io/badge/JavaScript-ffef0a?style=for-the-badge&logo=javascript&logoColor=1a1a1a">
+ 
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    
+ <img src="https://img.shields.io/badge/next-030303?style=for-the-badge&logo=next.js&logoColor=#7a7a7a">
+    
+ <img src="https://img.shields.io/badge/Redux-090712?style=for-the-badge&logo=redux&logoColor=682be3"> 
+    
+ <img src="https://img.shields.io/badge/sass-bf4080?style=for-the-badge&logo=sass&logoColor=white"> 
+</p>
+ 
+ 
+ :toolbox: Tools
+ 
+  <p align="left">
+   
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
+   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"> 
+  </p>
