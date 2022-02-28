@@ -1,9 +1,9 @@
 # Olá 👋!!
 ## Meu nome é Edson Marcelo.
 
-Sou desenvolvedor Front-end.
+Sou desenvolvedor Front-end React.Js
 
-Estudando React.Js há um bom tempo, tenho uma boa noção de componentização, controle de estados, consumo de API’s e 
+Boa noção de componentização, controle de estados, consumo de API’s e 
 React Hooks, Styled Components.. Também um pouco de experiência com Next.Js.
 
 Sólidos conhecimentos em HTML5, CSS3 e Javascript. 
@@ -11,7 +11,6 @@ Sólidos conhecimentos em HTML5, CSS3 e Javascript.
 Já utilizei MongoDB e Firebase na construção de diversos projetos práticos.
 
 E também Controle de versão, com GIT.
-
 
 -  :zap: Buscando minha primeira posição na área, como programador front-end. 
 -  💻 Você pode me contatar pelo meu [site](https://inazumait.netlify.app) ou pelo [linkedin](https://www.linkedin.com/in/edson-marcelo-b0471b1bb).
