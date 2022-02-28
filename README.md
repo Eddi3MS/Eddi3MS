@@ -2,14 +2,14 @@
 
 Sou desenvolvedor Front-end React.Js
 
-Context API, Redux, consumo de API’s, React Hooks, Styled Components..
-Também um pouco de experiência com Next.Js.
+Context API, Redux, React Hooks, Styled Components, consumo de API’s..
+E também um pouco de experiência com Next.Js.
 
 Sólidos conhecimentos em HTML5, CSS3 e Javascript. 
 
 Já utilizei MongoDB e Firebase na construção de diversos projetos práticos.
 
-E também Controle de versão, com GIT.
+Controle de versão, com GIT.
 
 -  :zap: Buscando minha primeira posição na área, como programador front-end. 
 -  💻 Você pode me contatar pelo meu [site](https://inazumait.netlify.app) ou pelo [linkedin](https://www.linkedin.com/in/edson-marcelo-b0471b1bb).
