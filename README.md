@@ -2,8 +2,8 @@
 
 Sou desenvolvedor Front-end React.Js
 
-Boa noção de componentização, controle de estados, consumo de API’s e 
-React Hooks, Styled Components.. Também um pouco de experiência com Next.Js.
+Context API, Redux, consumo de API’s, React Hooks, Styled Components..
+Também um pouco de experiência com Next.Js.
 
 Sólidos conhecimentos em HTML5, CSS3 e Javascript. 
 
