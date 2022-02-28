@@ -13,7 +13,7 @@ Já utilizei MongoDB e Firebase na construção de diversos projetos práticos.
 E também Controle de versão, com GIT.
 
 
--  :zap: Buscando minha primeira posição na área, como programador front-end júnior. 
+-  :zap: Buscando minha primeira posição na área, como programador front-end. 
 -  💻 Você pode me contatar pelo meu [site](https://inazumait.netlify.app) ou pelo [linkedin](https://www.linkedin.com/in/edson-marcelo-b0471b1bb).
 
  <div>
