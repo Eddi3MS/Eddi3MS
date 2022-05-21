@@ -26,6 +26,8 @@ I’ve learned so much , so far.. And i’m eager to learn much more.
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     
  <img src="https://img.shields.io/badge/JavaScript-ffef0a?style=for-the-badge&logo=javascript&logoColor=1a1a1a">
+
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=f7f7f7">
  
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     
@@ -34,6 +36,10 @@ I’ve learned so much , so far.. And i’m eager to learn much more.
  <img src="https://img.shields.io/badge/Redux-090712?style=for-the-badge&logo=redux&logoColor=682be3"> 
     
  <img src="https://img.shields.io/badge/sass-bf4080?style=for-the-badge&logo=sass&logoColor=white"> 
+  
+ <img src="https://img.shields.io/badge/Styled_Components-821ea6?style=for-the-badge&logo=styledComponents&logoColor=white"> 
+  
+  
 </p>
  
  
@@ -46,4 +52,5 @@ I’ve learned so much , so far.. And i’m eager to learn much more.
    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Azure-Devops?style=for-the-badge&logo=azureDevops&logoColor=white"> 
   </p>
