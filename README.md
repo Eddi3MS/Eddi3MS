@@ -1,8 +1,13 @@
-# Olá 👋!! Meu nome é Edson Marcelo.
+# Hi there  👋!! My name is Edson Marcelo, a frontend engineer.
 
-Sou desenvolvedor Front-end React.Js
+I’ve been an internet entusiast for a long time, and was just back in 2020 that i started to learn to code. Its being amazing!
 
--  💻 Você pode me contatar pelo meu [site](https://inazumait.netlify.app) ou pelo [linkedin](https://www.linkedin.com/in/edson-marcelo-b0471b1bb).
+I'm currently working as a Front-end engenier, in the React.Js, Typescript and Javascript stack.
+
+I’ve learned so much , so far.. And i’m eager to learn much more.
+
+-  💻 You can contact me through my [website](https://inazumait.netlify.app) or through my [linkedin](https://www.linkedin.com/in/edson-marcelo79/).
+
 
  <div>
   <a href="https://github.com/Eddi3MS">
