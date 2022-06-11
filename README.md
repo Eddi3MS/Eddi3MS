@@ -52,5 +52,5 @@ I’ve learned so much , so far.. And i’m eager to learn much more.
    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Azure-Devops?style=for-the-badge&logo=azureDevops&logoColor=white"> 
+ 
   </p>
