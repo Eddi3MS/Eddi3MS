@@ -34,23 +34,17 @@ I’ve learned so much , so far.. And i’m eager to learn much more.
  <img src="https://img.shields.io/badge/next-030303?style=for-the-badge&logo=next.js&logoColor=#7a7a7a">
     
  <img src="https://img.shields.io/badge/Redux-090712?style=for-the-badge&logo=redux&logoColor=682be3"> 
+  
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+  
     
  <img src="https://img.shields.io/badge/sass-bf4080?style=for-the-badge&logo=sass&logoColor=white"> 
   
  <img src="https://img.shields.io/badge/Styled_Components-821ea6?style=for-the-badge&logo=styledComponents&logoColor=white"> 
   
   
+ <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"> 
+  
+  
 </p>
- 
- 
- :toolbox: Tools
- 
-  <p align="left">
-   
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
-   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"> 
- 
-  </p>
+
