@@ -1,50 +1,27 @@
-# Hi there  👋!! My name is Edson Marcelo, a frontend engineer.
+# 💫 About Me:
+## Hi there  👋!! My name is Edson Marcelo.
 
-I’ve been an internet entusiast for a long time, and was just back in 2020 that i started to learn to code. Its being amazing!
-
-I'm currently working as a Front-end engenier, in the React.Js, Typescript and Javascript stack.
-
-I’ve learned so much , so far.. And i’m eager to learn much more.
+I'm currently working as a Front-end engenier, in the React.Js, Typescript  stack.
 
 -  💻 You can contact me through my [website](https://inazumait.netlify.app) or through my [linkedin](https://www.linkedin.com/in/edson-marcelo79/).
+-  🔭 I’m currently working on a human resources management software
+-  🌱 I’m currently learning more about typescript and react
+-  💬 Ask me about anything, I'll answer what i can
+-  ⚡ Fun fact: a developer in development. Am I the only one who always laugh at this?
 
 
- <div>
-  <a href="https://github.com/Eddi3MS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eddi3MS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddi3MS&layout=compact&langs_count=7&theme=dracula"/>
- </div>
+  ![](https://github-readme-stats.vercel.app/api?username=Eddi3ms&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddi3ms&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
  
 <br>
 
  
- :books: Skills:
- 
- <p align="left">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    
- <img src="https://img.shields.io/badge/JavaScript-ffef0a?style=for-the-badge&logo=javascript&logoColor=1a1a1a">
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=f7f7f7">
- 
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    
- <img src="https://img.shields.io/badge/next-030303?style=for-the-badge&logo=next.js&logoColor=#7a7a7a">
-    
- <img src="https://img.shields.io/badge/Redux-090712?style=for-the-badge&logo=redux&logoColor=682be3"> 
-  
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-  
-    
- <img src="https://img.shields.io/badge/sass-bf4080?style=for-the-badge&logo=sass&logoColor=white"> 
-  
- <img src="https://img.shields.io/badge/Styled_Components-821ea6?style=for-the-badge&logo=styledComponents&logoColor=white"> 
-  
-  
- <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white"> 
-  
-  
-</p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-marcelo79) 
+
+
 
