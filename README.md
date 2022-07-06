@@ -3,7 +3,7 @@
 
 I'm currently working as a Front-end engenier, in the React.Js, Typescript  stack.
 
--  💻 You can contact me through my [website](www.portfolio.edsonmarcelo.com.br) or through my [linkedin](https://www.linkedin.com/in/edson-marcelo79/).
+-  💻 You can contact me through my [website](https://www.portfolio.edsonmarcelo.com.br/) or through my [linkedin](https://www.linkedin.com/in/edson-marcelo79/).
 -  🔭 I’m currently working on a human resources management software
 -  🌱 I’m currently learning more about typescript and react
 -  💬 Ask me about anything, I'll answer what i can
