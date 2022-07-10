@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## Hi there  👋!! My name is Edson Marcelo.
 
 I'm currently working as a Front-end engenier, in the React.Js, Typescript  stack.
