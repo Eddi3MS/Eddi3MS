@@ -1,3 +1,4 @@
+![codewars](https://www.codewars.com/users/Eddi3MS/badges/large)
 
 ## Hi there  👋!! My name is Edson Marcelo, a Frontend Developer.
 
