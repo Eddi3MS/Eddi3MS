@@ -1,5 +1,3 @@
-![codewars](https://www.codewars.com/users/Eddi3MS/badges/large)
-
 ## Hi there  👋!! My name is Edson Marcelo, a Frontend Developer.
 
 I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
@@ -46,4 +44,5 @@ I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-marcelo79) 
 
 
+![codewars](https://www.codewars.com/users/Eddi3MS/badges/large)
 
