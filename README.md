@@ -3,8 +3,8 @@
 I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 
 -  💻 You may contact me through my [linkedin](https://www.linkedin.com/in/edson-marcelo79/).
--  🔭 I’m currently working on a school management software.
--  🌱 I’m currently learning more about Storybook and React Query.
+-  🔭 I’m currently working on a NFT marketplace.
+-  🌱 I’m currently learning more about React Query.
 -  💬 If you need help with something related to what i do, feel free to ask, I'll answer what i can.
 -  ⚡ You can see some of my personal work in my [portfolio](https://www.portfolio.edsonmarcelo.com.br/).
 
