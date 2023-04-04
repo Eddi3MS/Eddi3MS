@@ -6,7 +6,7 @@ I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 -  🔭 I’m currently working on a NFT marketplace.
 -  🌱 I’m currently learning more about React Query.
 -  💬 If you need help with something related to what i do, feel free to ask, I'll answer what i can.
--  ⚡ You can see some of my personal work in my [portfolio](https://www.portfolio.edsonmarcelo.com.br/).
+-  ⚡ You can see some of my personal work in my [portfolio](https://www.edsonmarcelo.com.br/).
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddi3ms&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
