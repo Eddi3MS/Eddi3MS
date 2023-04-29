@@ -3,14 +3,19 @@
 I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 
 -  💻 You may contact me through my [linkedin](https://www.linkedin.com/in/edson-marcelo79/).
--  🔭 I’m currently working on a NFT marketplace.
--  🌱 I’m currently learning more about React Query.
--  💬 If you need help with something related to what i do, feel free to ask, I'll answer what i can.
--  ⚡ You can see some of my personal work in my [portfolio](https://www.edsonmarcelo.com.br/).
+-  🔭 I’m currently working on a SaaS factory <3, now building a management system for a 'news tracker company'.
+-  🌱 I’m currently learning more about Next.js & React SSC.
+-  💬 If you need help with something related to what i do, feel free to ask.
+-  ⚡ You can see some of my work in my [portfolio](https://www.edsonmarcelo.com.br/).
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddi3ms&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<div>
+  <a href="https://github.com/eddi3ms">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=eddi3ms&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddi3ms&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
--  ⚡ a developer in development. Am I the only one who always laugh at this?
+-  ⚡ a developer in development.
  
 <br>
 
@@ -26,8 +31,8 @@ I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
