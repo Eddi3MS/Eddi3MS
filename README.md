@@ -3,7 +3,7 @@
 I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 
 -  💻 You may contact me through my [linkedin](https://www.linkedin.com/in/edson-marcelo79/).
--  🔭 I’m currently working on a SaaS factory <3, now building a management system for a 'news tracker company'.
+-  🔭 I’m currently working on a SaaS factory <3, now building a management system for a 'news tracker' company.
 -  🌱 I’m currently learning more about Next.js & React SSC.
 -  💬 If you need help with something related to what i do, feel free to ask.
 -  ⚡ You can see some of my work in my [portfolio](https://www.edsonmarcelo.com.br/).
