@@ -7,15 +7,20 @@ I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 -  🌱 I’m currently learning more about Next.js & React SSC.
 -  💬 If you need help with something related to what i do, feel free to ask.
 -  ⚡ You can see some of my work in my [portfolio](https://www.edsonmarcelo.com.br/).
+-  ⚡ a developer in CONST development.
 
-<div>
+  ![codewars](https://www.codewars.com/users/Eddi3MS/badges/large)
+
+
+<div> 
   <a href="https://github.com/eddi3ms">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=eddi3ms&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddi3ms&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eddi3ms&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+  </a>  
 </div>
 
--  ⚡ a developer in development.
+
+
  
 <br>
 
@@ -46,8 +51,10 @@ I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 
 
 ## 🌐 Socials:
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edson-marcelo79) 
 
-
-![codewars](https://www.codewars.com/users/Eddi3MS/badges/large)
-
+<p align="right"> 
+   <img height="25px" alingn="center" src="https://profile-counter.glitch.me/eddi3ms/count.svg" />
+ </p>
