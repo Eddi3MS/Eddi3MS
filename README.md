@@ -15,7 +15,7 @@ I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 <div> 
   <a href="https://github.com/eddi3ms">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddi3ms&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eddi3ms&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+ 
   </a>  
   <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
   
