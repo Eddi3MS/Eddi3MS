@@ -7,7 +7,6 @@ I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 -  🌱 I’m currently learning more about Next.js & React SSC.
 -  💬 If you need help with something related to what i do, feel free to ask.
 -  ⚡ You can see some of my work in my [portfolio](https://www.edsonmarcelo.com.br/).
--  ⚡ a developer in CONST development.
 
   ![codewars](https://www.codewars.com/users/Eddi3MS/badges/large)
 
