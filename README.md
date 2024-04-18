@@ -1,6 +1,6 @@
 ## Hi there  👋!! My name is Edson Marcelo, Software Developer.
 
-I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
+I'm presently engaged with React.js, Next.js, TypeScript and JavaScript. However, I'm flexible and eager to explore other frontend development environments.
 
 -  💻 Contact me <a href="https://www.edsonmarcelo.com.br/#contact-me" target="_blank">here</a>
 -  🌱 I’m currently learning more about React-Native.
