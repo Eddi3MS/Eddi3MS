@@ -1,4 +1,4 @@
-## Hi there  👋!! My name is Edson Marcelo, a Frontend Developer.
+## Hi there  👋!! My name is Edson Marcelo, Software Developer.
 
 I'm currently working with React.Js, Typescript, SASS, Redux, Next.js.
 
