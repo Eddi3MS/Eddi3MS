@@ -9,7 +9,7 @@
 
 
 
--  💻 Contact me <a href="https://www.edsonmarcelo.com.br/#contact-me" target="_blank">here</a>
+-  💻 Contact me <a href="https://www.edsonmarcelo.com.br/contact" target="_blank">here</a>
 -  🌱 I’m currently learning more about React-Native.
 -  💬 If you need help with something related to what i do, feel free to ask.
 -  ⚡ You can see more of my work in my <a href="https://www.edsonmarcelo.com.br/" target="_blank">portfolio</a>
