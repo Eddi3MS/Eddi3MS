@@ -28,6 +28,7 @@
 
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next.js-%23323330?style=for-the-badge&logo=next.js)
+![Node](https://img.shields.io/badge/node-%23323330?style=for-the-badge&logo=node)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23323330.svg?style=for-the-badge&logo=tailwindcss)
 ![SASS](https://img.shields.io/badge/SASS-%23323330.svg?style=for-the-badge&logo=sass)
