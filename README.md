@@ -11,7 +11,7 @@ Se você acredita em projetos bem feitos e quer conversar, **fique à vontade pa
 ---
 
 - 💬 **Se precisar de ajuda** com React, Next.js ou algo relacionado, pode contar comigo.
-- 🌱 **Atualmente estudando:** desenvolvimento full stack (expandindo para o backend com node).
+- 🌱 **Atualmente me aprofundando** no desenvolvimento full stack, expandindo minhas habilidades para o backend com Node.js.
 - 📢 **Me mande uma mensagem:** [Contato no site](https://www.edsonmarcelo.com.br/contact)
 - ⚡ **Veja meus projetos:** [Portfólio](https://www.edsonmarcelo.com.br/projects)
 
