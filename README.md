@@ -31,6 +31,7 @@ Se você acredita em projetos bem feitos e quer conversar, **fique à vontade pa
 ![Next.js](https://img.shields.io/badge/Next.js-%23323330?style=for-the-badge&logo=next.js)
 ![Node.js](https://img.shields.io/badge/node-%23323330?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express)
+![Nest.js](https://img.shields.io/badge/Nest.js-%23323330.svg?style=for-the-badge&logo=nest.js)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23323330.svg?style=for-the-badge&logo=tailwindcss)
 ![SASS](https://img.shields.io/badge/SASS-%23323330.svg?style=for-the-badge&logo=sass)
